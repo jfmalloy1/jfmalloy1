@@ -10,4 +10,4 @@
  
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=jfmalloy1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfmalloy1?hide=jupyter notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfmalloy1?hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
