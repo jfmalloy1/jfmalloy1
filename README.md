@@ -1,16 +1,13 @@
-### Hi there 👋
+### PhD Researcher, Arizona State University
 
-<!--
-**jfmalloy1/jfmalloy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👽 I study how complex molecules evolve over time on Earth and elsewhere, how society influences chemistry, and ways to help students learn better 
+- 🤓 I'm learning how to use & apply PyTorch and ML methods to my research
+- 💬 Ask me about cheminformatics, astrobiology, STEM education, and running
+- :blue_heart: Pronouns: he/him
+- 📫 How to reach me: jmalloy3@asu.edu
+  - [LinkedIn](https://www.linkedin.com/in/john-malloy-a72a519a/)
+  - [Personal Website](https://john-malloy.jimdosite.com/)
+ 
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=jfmalloy1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfmalloy1)](https://github.com/anuraghazra/github-readme-stats)
