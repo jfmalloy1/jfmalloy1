@@ -1,7 +1,7 @@
 ### PhD, Arizona State University
 
 - 👽 I studied how complex molecules evolve over time on Earth and elsewhere, how society influences chemistry, and ways to help students learn better 
-- 🤓 I'm learning how to use & apply PyTorch and ML methods to my research
+- 🤓 I'm learning how to use & apply PyTorch and ML methods in my free time
 - 💬 Ask me about cheminformatics, astrobiology, STEM education, and running
 - :blue_heart: Pronouns: he/him
 - 📫 How to reach me: jfmalloy1@gmail.com
