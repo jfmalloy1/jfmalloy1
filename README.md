@@ -1,4 +1,4 @@
-### Cheminformatics Data Scientists @ Drug Hunter
+### Cheminformatics Data Scientist @ Drug Hunter
 - 👔 I currently work to curate drug discovery data solutions for pharmaceutical customers
 - 👽 During my PhD, I studied how complex molecules evolve over time on Earth and elsewhere, how society influences chemistry, and ways to help students learn better 
 - 🤓 I'm learning how to use & apply PyTorch and ML methods in my free time
