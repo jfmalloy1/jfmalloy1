@@ -8,6 +8,6 @@
   - [LinkedIn](https://www.linkedin.com/in/john-malloy-a72a519a/)
   - [Personal Website](https://john-malloy.jimdosite.com/)
  
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=jfmalloy1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Johns's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfmalloy1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfmalloy1&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
